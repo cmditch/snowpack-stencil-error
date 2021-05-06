@@ -1,0 +1,11 @@
+{
+  "name": "snowpack-stencil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "foo@bar.com",
+  "license": "MIT",
+  "dependencies": {
+    "@stencil/core": "^2.5.2",
+    "snowpack": "^3.3.7"
+  }
+}
